@@ -1,0 +1,22 @@
++----+----+----+----+----+----+----+----+----+----+----+----++ F1:Selection start
+|                                                            | F2:Selection end 
+|                                                            | F3:Cut           
+|                                                            | F4:Copy          
+|                                                            | F5:Paste         
++                                                            + F6:Find          
+|                                                            | F7:Replace       
+|                                                            | F8:Next          
+|                                                            | F9:Align left    
+|                                                            | F10:Justify      
++                                                            + F11:Load         
+|                                                            | F12:Save         
+|                                                            |                  
+|                                                            | Mode:Insert      
+|                                                            |                  
++                                                            + Alignment:Justified
+|                                                            |                  
+|                                                            |                  
+|                                                            |                  
+|                                                            |                  
++                                                            +                  
++----+----+----+----+----+----+----+----+----+----+----+----++                  
